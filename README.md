@@ -1,0 +1,7 @@
+# Welcome to GitHub Desktop!
+02\04\23 in STL NOCo. Missouri.
+This is your README. READMEs are where you can communicate what your project is and how to use it.
+  So, my project began as just basically learning how to code and building the software for my invention.  Then it began to develope very quickly into what i would call mix match of different fields of internet programing fields.  Which in turn led to my creation of a crypto bank, a college online, a car restoration website, a higher education for the pornogrophy industy school, a blockchain, a wallet, and a couple of other things as well im still a sole proprietary owner of all of the above buisnesses with only my assets invested but thats ok i like it that way alot of times basically because im the only one who has any say on whats gonna happen with my enterprises.  Im 28 highschool dropout, ex felon, that was doing drugs to becoming a highly intelligent, 3 inventions owner, soley of an entire enterprise with quite a good little nest egg so im happy.  Thanks hopefully yall will enjoy my hexidecimal bianary coded hash line i made from scratch it is the same that Bitcoin was built on so take a look at it.
+ etc.Extraterestrial- Enterprises.org is my cellular and internet broadband service and as well internet programing api.  Established Feb, 24. 2018...
+Chais T Fitzwater
+https://github.com/Master-url-web-et/desktop-tutorial
